@@ -11,7 +11,7 @@
 
 
 
-### Glad to see you here!  
+### A little about me  
 I am an aspiring mechanical and digital engineer with a burning passion for automobiles and technology. Generally, you can catch me doing school projects, working on my website, or working on random passion projects here. I love working on random projects, covering all aspects of development. I aspire to make all my projects as efficient as possible, and I feel my approach to engineering can be encapsulated in one quote:  
   
 
@@ -24,7 +24,7 @@ I am an aspiring mechanical and digital engineer with a burning passion for auto
 <br/>  
 
 
-## Rapidfire  
+## Quick facts  
 - 📄 I’m currently working on [My Website](https://noahkae.github.io)  
   
 
