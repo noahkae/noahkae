@@ -77,7 +77,7 @@ I am an aspiring mechanical and digital engineer with a burning passion for auto
 
 <br/>  
 
-![Profile views counter](http://github-readme-streak-stats.herokuapp.com?user=noahkae&theme=dark&background=000000)
+![Profile views counter](https://komarev.com/ghpvc/?username=noahkae&&style=flat-square&theme=dark&background=000000)
   
   
 
