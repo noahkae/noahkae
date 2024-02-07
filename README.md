@@ -77,13 +77,8 @@ I am an aspiring mechanical and digital engineer with a burning passion for auto
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=noahkae&&style=flat-square)  
+![Profile views counter](http://github-readme-streak-stats.herokuapp.com?user=noahkae&theme=dark&background=000000)
+  
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
