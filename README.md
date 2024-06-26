@@ -32,10 +32,7 @@ I am an aspiring mechanical and digital engineer with a burning passion for auto
   
 
 - 🐍 My favorite language is python  
-  
-
-- 🥅 I plan to modernize and revamp my [childhood favorite flash game](https://www.gameflare.com/online-game/sports-heads-cards-squad-swap/)  
-  
+    
 
 <br/>  
 
