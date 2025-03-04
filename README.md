@@ -12,7 +12,7 @@
 
 
 ### A little about me  
-I am an aspiring mechanical and digital engineer with a burning passion for automobiles and technology. Generally, you can catch me doing school projects, working on my website, or working on random passion projects here. I love working on random projects, covering all aspects of development. I aspire to make all my projects as efficient as possible, and I feel my approach to engineering can be encapsulated in one quote:  
+I am an aspiring mechanical and digital engineer with a burning passion for automobiles and technology. Generally, you can catch me doing school projects, working on my website, or working on random passion projects here. I love working on random projects, covering all aspects of development. 
   
 
 *<div align="center">"If you no longer go for a gap that exists, you are no longer a racing driver."</div>*  
